@@ -3,7 +3,7 @@
 **Course:** Mobile Application Development  
 **Subject Code:** 702AI0E002  
 **Assignment:** Lab Assignment-1  
-**Student Roll Number:** B067  
+**Student Roll Number:** N051  
 **Base Repository:** [ifahimkhan/GeminiApiComposeStarter](https://github.com/ifahimkhan/GeminiApiComposeStarter)
 
 ---
